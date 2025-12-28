@@ -1,5 +1,4 @@
 # 📚 National Book Store – Inventory & Sales System
-
 This repository contains the **National Book Store Inventory and Sales System** — a project developed by our group as part of our academic requirement.
 
 ---
@@ -40,18 +39,5 @@ You can access and use the live deployed system here:
 The main development repository where this project was originally built:
 
 👉 **https://github.com/akryyydum/nbs-SIA2.git**
-
----
-
-## 📝 About This Repo
-This GitHub repository only serves as a **public showcase copy** for portfolio purposes.  
-The **original system source code** and commit history belong to the project owner and group repository stated above.
-
----
-
-## 🔖 License / Ownership
-✔️ All rights reserved to the group members  
-✔️ This project is intended for educational purposes  
-❌ Not allowed for commercial use without permission  
 
 ---
