@@ -1,6 +1,6 @@
 # 📚 National Book Store – Inventory & Sales System
 
-This repository contains the **National Book Store Inventory and Sales System** — a project developed by our group as part of our academic requirement.
+This repository contains the **National Book Store Inventory and Sales System**, a project developed by our group as part of our academic requirement.
 
 ## 📦 Project Information
 
