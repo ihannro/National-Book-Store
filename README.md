@@ -21,7 +21,7 @@ This system was created to:
 
 You can access and use the live deployed system here:
 
-👉 **https://nbs-sia.vercel.app/**
+**https://nbs-sia.vercel.app/**
 
 ## ✨ Key Features
 
@@ -36,4 +36,4 @@ You can access and use the live deployed system here:
 
 The main development repository where this project was originally built:
 
-👉 **https://github.com/akryyydum/nbs-SIA2.git**
+**https://github.com/akryyydum/nbs-SIA2.git**
